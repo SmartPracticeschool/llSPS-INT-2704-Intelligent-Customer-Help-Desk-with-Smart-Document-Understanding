@@ -10,6 +10,9 @@ To take it a step further, the project shall use the Smart Document Understandin
 Project Scope
 
     Create a customer care dialog skill in Watson Assistant
+
     Use Smart Document Understanding to build an enhanced Watson Discovery collection
+
     Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
+
     Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
