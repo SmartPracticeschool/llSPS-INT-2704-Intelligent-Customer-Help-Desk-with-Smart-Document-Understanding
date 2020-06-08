@@ -16,3 +16,15 @@ Project Scope
     Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
 
     Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+    
+ 
+ Flow
+ 
+ This flow basically summarizes the project. It begins with :
+ 
+1. The annotation of document using Watson Dicovery SDU.
+2. The user interacts with Node-Red app UI.The chatbot engages the user in conversation.
+3. Dialog in this interaction is coordinated by Watson Assistant.
+4. If the customer asks a technical question, it will be passed to Cloud Functions action.
+5.This action will further pass onto to Watson Discovery and return with appropriate solution.
+
