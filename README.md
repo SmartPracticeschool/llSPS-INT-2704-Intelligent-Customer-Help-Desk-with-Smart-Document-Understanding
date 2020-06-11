@@ -9,13 +9,44 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 ## Project Scope
 
-   - Create a customer care dialog skill in Watson Assistant
+  *Project Requirements:*
 
-   - Use Smart Document Understanding to build an enhanced Watson Discovery collection
+   * IBM Cloud
+   * IBM Watson services
+   * Node Red
+   * Web Framework
 
-   - Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
+*Functional Requirements:*
 
-   - Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+   * A Chatbot able to answer queries.
+   * Redirect the operational queries to Owner's manual.
+   * Redirect the query to the particular section of the owner's manual.
+
+
+*Technical Requirements:*
+
+   * Create a chatbot using Watson Assistant.
+   * Use Watson Discovery to  redirect the user's query to the section of the owner's manual.
+   * Use Node Red to wire together Api and online services.
+   * Integrating it with IBM Cloud.
+
+*Software Requirements:*
+
+   * IBM watson services
+   * IBM Assistant
+   * IBM cloud
+   * Github
+   * Node red
+   * User interface
+   * Security
+   * Json editor
+
+
+*Project Deliverables:*
+
+   The model created i.e. a chatbot would be able to identify any operational question posted by the user
+   and using IBM Watson discovery will redirect the user to the  section of the owner's manual
+   where the answer to the question lies.
     
  
  ## Flow
