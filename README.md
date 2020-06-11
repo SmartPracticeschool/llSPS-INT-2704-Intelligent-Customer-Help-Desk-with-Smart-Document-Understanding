@@ -7,18 +7,18 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
-Project Scope
+##Project Scope
 
-    Create a customer care dialog skill in Watson Assistant
+   - Create a customer care dialog skill in Watson Assistant
 
-    Use Smart Document Understanding to build an enhanced Watson Discovery collection
+   - Use Smart Document Understanding to build an enhanced Watson Discovery collection
 
-    Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
+   - Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
 
-    Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+   - Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
     
  
- Flow
+ ##Flow
  
  This flow basically summarizes the project. It begins with :
  
