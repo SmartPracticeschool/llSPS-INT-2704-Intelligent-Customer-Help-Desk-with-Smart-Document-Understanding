@@ -1,5 +1,5 @@
 # llSPS-INT-2704-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
-Intelligent Customer Help Desk with Smart Document Understanding
+## Intelligent Customer Help Desk with Smart Document Understanding
 
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
 
@@ -7,7 +7,7 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
-##Project Scope
+## Project Scope
 
    - Create a customer care dialog skill in Watson Assistant
 
@@ -18,7 +18,7 @@ To take it a step further, the project shall use the Smart Document Understandin
    - Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
     
  
- ##Flow
+ ## Flow
  
  This flow basically summarizes the project. It begins with :
  
