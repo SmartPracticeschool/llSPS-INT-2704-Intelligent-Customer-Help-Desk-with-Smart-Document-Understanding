@@ -19,6 +19,7 @@ To take it a step further, the project shall use the Smart Document Understandin
     
  
  ## Flow
+ ![Image description](https://github.com/IBM/watson-discovery-sdu-with-assistant/blob/master/doc/source/images/architecture.png)
  
  This flow basically summarizes the project. It begins with :
  
