@@ -1,6 +1,6 @@
 # llSPS-INT-2704-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
-### Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
+
 
 ## Intelligent Customer Help Desk with Smart Document Understanding
 
@@ -41,9 +41,7 @@ To take it a step further, the project shall use the Smart Document Understandin
    * Github
    * Node red
    * User interface
-   * Security
-   * Json editor
-
+   
 
 *Project Deliverables:*
 
@@ -62,4 +60,6 @@ To take it a step further, the project shall use the Smart Document Understandin
 3. Dialog in this interaction is coordinated by Watson Assistant.
 4. If the customer asks a technical question, it will be passed to Cloud Functions action.
 5.This action will further pass onto to Watson Discovery and return with appropriate solution.
+
+### Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
 
