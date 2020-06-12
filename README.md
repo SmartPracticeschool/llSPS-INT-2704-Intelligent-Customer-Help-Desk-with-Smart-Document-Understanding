@@ -1,6 +1,6 @@
 # llSPS-INT-2704-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
-#Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
+# Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
 
 ## Intelligent Customer Help Desk with Smart Document Understanding
 
