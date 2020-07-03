@@ -62,4 +62,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 5.This action will further pass onto to Watson Discovery and return with appropriate solution.
 
 ### Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
+### Youtube Demo video link https://youtu.be/4Xt02L9BWY8
 
