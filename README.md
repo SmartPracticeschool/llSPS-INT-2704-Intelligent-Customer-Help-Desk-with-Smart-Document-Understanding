@@ -63,4 +63,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 ### Node_Red Dasboard link after deploying :https://node-red-yqmrq.eu-gb.mybluemix.net/ui/#!/0?socketid=YXhsy_qmifXXKQIoAAAA
 ### Youtube Demo video link https://youtu.be/4Xt02L9BWY8
+### Feedback video https://youtu.be/24WwfTxClBs
 
